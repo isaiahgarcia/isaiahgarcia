@@ -3,6 +3,8 @@
 <a href="isaiahgarcia916@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/isaiahgarcia/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
+<a href="https://isaiahgarcia.vercel.app">Check out my portfolio website!</a>
+
 ## About Me
 
 - 💻 B.S. Computer Science from the University of California, Santa Barbara
