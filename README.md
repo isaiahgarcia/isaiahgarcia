@@ -14,6 +14,7 @@
 - 👯 Fun fact: I have been a competitive dancer for 10 years and was Executive Director for my hiphop dance company in college
 
 ## Past Projects
+- 🎵 Swiftify: A Next.js App Router website incorporating Typescript, Tailwind CSS, and Spotify Web API to convert user's songs consisting of old Taylor Swift songs to Taylor's versions on their playlists.
 - ⚡️🏙 Data Center Energy Dashboard: Developed interactive R shiny app that visualizes trends in data center energy use and reporting transparency of 40 (and growing) tech companies for the Industrial Sustainability Analysis Lab.
   
 - 😸☕ GratiCat: A React/Typescript mobile app that prompts users to journal gratitude every day using Google Firebase for user authentication and NLP methods for categorizing past journal entries
